@@ -46,10 +46,10 @@ Aim of project was to identify optimized parameters of washing machine such as s
 
 The results obtained after optimization are-
 Fitness function-
-![Fitness](images/generation-3.jpg)
+![Fitness](images/generation-3.JPG)
 x-position of center of mass
-![x-position](images/x.jpg)
+![x-position](images/x.JPG)
 z-position of center of mass
-![z-position](images/z.jpg)
+![z-position](images/z.JPG)
 Wobbling motion of washing machine-
-![wobble](images/wobbling.jpg)
+![wobble](images/wobbling.JPG)
