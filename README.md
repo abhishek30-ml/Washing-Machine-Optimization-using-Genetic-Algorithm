@@ -42,14 +42,14 @@ The app interface is as below
 
 ## Results obtained
 Aim of project was to identify optimized parameters of washing machine such as spring constants, damper coefficients, positon of spring and dampers from center of mass. Image below shows the schematic. 
-![Schematic](Schematic2.png)
+![Schematic](Schematic2.png = 200x200)
 
 The results obtained after optimization are-
 Fitness function-
-![Fitness](images/generation-3.JPG)
+![Fitness](images/generation-3.JPG = 200x200)
 x-position of center of mass
-![x-position](images/x.JPG)
+![x-position](images/x.JPG )
 z-position of center of mass
 ![z-position](images/z.JPG)
 Wobbling motion of washing machine-
-![wobble](images/wobbling.JPG)
+![wobble](images/wobbling.JPG = 100x100)
