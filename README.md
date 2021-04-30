@@ -50,10 +50,10 @@ Fitness function-
 <img src="images/generation-3.JPG" width="500" height="500">
 
 x-position of center of mass
-<img src="x.JPG" width="900" height="300">
+<img src="images/x.JPG" width="900" height="300">
 
 z-position of center of mass
-<img src="z.JPG" width="900" height="300">
+<img src="images/z.JPG" width="900" height="300">
 
 Wobbling motion of washing machine-
 <img src="images/wobbling.JPG" width="500" height="500">
