@@ -22,3 +22,34 @@ The simulink model used is given below
 The app interface is as below
 ![App](images/App_Image.png)
 
+## List of MATLAB files
+* `Constant_Matrix.m` : Contains constant parameters of washing machine
+* `crossover.m` : Crossover operation for Genetic Algo
+* `decoder.m` : Decodes binary matrix to parameters
+* `decoder_array.m` : Decodes resultant binary output to parameters
+* `Design_matrix.m` : Contains design variables 
+* `elitism2.m` : Contains elitism operation for Genetic Algo
+* `fitness_fn` : Contains fitness function
+* `GeneticAlgorithm.m` : Contains genetic algorithm code 
+* `initialization.m` : Initializes random population
+* `Main.m` : Run this code to get plots and animation
+* `mutation.m` : Contains mutation function for Genetic Algo
+* `plots.m` : Plots results and animation
+* `Project_Model2021a.slx`: Simulink Model
+* `selection.m`: Contains selection function for Genetic Algo
+* `simRun.m`: Calls the simulink model
+* `Washing_Machine.mlapp`: App made to identify optimized design variables
+
+## Results obtained
+Aim of project was to identify optimized parameters of washing machine such as spring constants, damper coefficients, positon of spring and dampers from center of mass. Image below shows the schematic. 
+![Schematic](Schematic2.png)
+
+The results obtained after optimization are-
+Fitness function-
+![Fitness](images/generation-3.png)
+x-position of center of mass
+![x-position](images/x.png)
+z-position of center of mass
+![z-position](images/z.png)
+Wobbling motion of washing machine-
+![wobble](images/wobbling.png)
